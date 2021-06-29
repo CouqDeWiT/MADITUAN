@@ -35,7 +35,7 @@ function Implementation(N) {
         console.log(Arr_obj.sort(function (a, b) {
                 return a.nuocdi - b.nuocdi;
             }))    
-    };
+    }; 
 //----------------------------------------
     let drawBoard = () => {
         const boxSize = 80,

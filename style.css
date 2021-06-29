@@ -1,0 +1,40 @@
+#svg-container {
+    margin-top: 10px;
+}
+
+body {
+    max-width: 980px;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
+    /*background-color: rgba(245, 245, 245, 0.65);*/
+    color: #3F51B5;
+    background: #84c9bb; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #00CCFF, #BEBEBE); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #24d3ff, #c9c3c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+text{
+    color: white;
+    margin-top: 5px;
+}
+#text1{
+    margin-left: 8px;
+}
+input{
+    margin-top: 5px;
+}
+h2 {
+    color: white;
+    font-weight: bold;
+}
+h4 {
+    color: white;
+}
+#btnGet{
+    margin-top: 5px;
+}
+#inputNum{
+    margin-left: 3px;
+}
